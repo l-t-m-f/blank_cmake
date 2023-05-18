@@ -1,0 +1,6 @@
+# ninja log v5
+12	66	7061275311967852	CMakeFiles/mock_lib_a.dir/deps/mock_lib_a/src/liba.c.obj	6bc3ed6d0ea04765
+16	71	7061275312007876	CMakeFiles/blank_project.dir/src/main.c.obj	b3f549a62bb550eb
+66	121	7061275312515330	libmock_lib_a.a	976eec2a8b87b6b0
+121	200	7061275313283333	blank_project.exe	dcbcfab570928978
+9	18	0	clean	9c4b4372737ab8da

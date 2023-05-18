@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/Git/l-t-m-f/C/__blank/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IE:/Git/l-t-m-f/C/__blank/deps/mock_lib_a/include -IE:/Git/l-t-m-f/C/__blank/deps/mock_lib_b -IE:/Git/l-t-m-f/C/__blank/include -Wall -Wextra -pedantic -Wfloat-equal -Wundef -Wshadow     -Wpointer-arith -Wwrite-strings -Waggregate-return -Wunreachable-code     -Wstrict-prototypes -Wstrict-overflow=2 -Wcast-align -Wcast-qual      -Wconversion -Wswitch-default -Wswitch-enum  -w -o CMakeFiles\\mock_lib_a.dir\\deps\\mock_lib_a\\src\\liba.c.obj -c E:\\Git\\l-t-m-f\\C\\__blank\\deps\\mock_lib_a\\src\\liba.c",
+  "file": "E:\\Git\\l-t-m-f\\C\\__blank\\deps\\mock_lib_a\\src\\liba.c",
+  "output": "CMakeFiles\\mock_lib_a.dir\\deps\\mock_lib_a\\src\\liba.c.obj"
+},
+{
+  "directory": "E:/Git/l-t-m-f/C/__blank/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IE:/Git/l-t-m-f/C/__blank/deps/mock_lib_a/include -IE:/Git/l-t-m-f/C/__blank/deps/mock_lib_b -IE:/Git/l-t-m-f/C/__blank/include -Wall -Wextra -pedantic -Wfloat-equal -Wundef -Wshadow     -Wpointer-arith -Wwrite-strings -Waggregate-return -Wunreachable-code     -Wstrict-prototypes -Wstrict-overflow=2 -Wcast-align -Wcast-qual      -Wconversion -Wswitch-default -Wswitch-enum  -std=c99 -o CMakeFiles\\blank_project.dir\\src\\main.c.obj -c E:\\Git\\l-t-m-f\\C\\__blank\\src\\main.c",
+  "file": "E:\\Git\\l-t-m-f\\C\\__blank\\src\\main.c",
+  "output": "CMakeFiles\\blank_project.dir\\src\\main.c.obj"
+}
+]
